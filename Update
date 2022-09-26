@@ -1,6 +1,6 @@
 add dual wielder skl 1, 2, 3 & ult
 add dual wielder always trying top the stack hits
-
+add status bar on top
 add auto claim dungeon reward
 move skip cutscene to misc menu on the left tab
 changed skip cutscene from VIM trigger to call function
