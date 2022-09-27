@@ -1,7 +1,7 @@
 add dual wielder skl 1, 2, 3 & ult
 add dual wielder always trying top the stack hits
 add status bar on top
-add auto claim dungeon reward + pass check
+add auto claim Mission reward + pass check
 move skip cutscene to misc menu on the left tab
 changed skip cutscene from VIM trigger to call function
 add toggle auto repeat current dungeons & towers plus after death
